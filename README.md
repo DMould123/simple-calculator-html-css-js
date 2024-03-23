@@ -1,10 +1,10 @@
 # Calculator Web App 🧮
 
-## Description
+## Description 🌍
 
 The Calculator Web App is a simple web application built using HTML, CSS, and JavaScript. It provides basic calculator functionalities, allowing users to perform addition, subtraction, multiplication, and division operations.
 
-## Objectives
+## Objectives 🎯
 
 This web application aims to:
 
@@ -13,11 +13,11 @@ This web application aims to:
 - 🎨 Implement a clean and responsive design.
 - 🚀 Showcase HTML, CSS, and JavaScript skills.
 
-## Tech Stack
+## Tech Stack 💻
 
 HTML, CSS, JavaScript
 
-## Installation
+## Installation 🔧
 
 To run the Calculator Web App locally, follow these steps:
 
@@ -37,24 +37,24 @@ To run the Calculator Web App locally, follow these steps:
 
 Note: The Simple Calculator Web App does not require additional dependencies.
 
-## Features
+## Features ✨
 
 - 🃏 ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
 - 🎨 Stylish and responsive calculator design.
 - 🔄 Clear display and buttons for a smooth user experience.
 - 🔄 Continuously calculate results for multiple operations.
 
-## Usage
+## Usage 🚀 
 
 - Open the index.html file in your web browser.
 - Use the calculator buttons to perform arithmetic operations.
 - Press "=" to calculate the result.
 - Press "C" to clear the display.
 
-## License
+## License 📝
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Author
+## Author 📚
 
 - David Mould
